@@ -41,7 +41,7 @@ local
    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
    Music = {Project.load 'joy.dj.oz'}
-   Start
+   Startthyhy
 
    % Uncomment next line to insert your tests.
    % \insert 'tests.oz'
